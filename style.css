@@ -1,0 +1,15 @@
+li{
+    display: inline-block;
+    padding: 25em 4em;
+    font-size: 75%;
+    white-space: nowrap;
+    border-radius: 25rem;
+    color:brown;
+}
+.cats{
+    color:orange;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 15px;
+}
